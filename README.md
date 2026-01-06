@@ -1,21 +1,25 @@
 <div align="center">
 
-# 🤖 Hi, I'm Vignesh Hari Bhaskar
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer;LLMs+%7C+RAG+%7C+Agents;Python+%7C+FastAPI+%7C+Vector+DBs" />
 
-### Applied AI Engineer (LLMs • RAG • Agents)  
-### Python • FastAPI • Vector Databases  
+<br/>
+
+### 🤖 Hi, I'm **Vignesh Hari Bhaskar**
+
+**Applied AI Engineer (Early Career)**  
+*LLMs • RAG • Agents • AI Backends*
 
 📍 Canada • Open to Relocation  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vigneshharibhaskar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vigneshharibhaskar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/haribhav">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -25,60 +29,50 @@
 
 ## 🧠 About Me
 
-- 🎓 Master of Applied Computing – University of Windsor  
-- 💼 Former Software Developer @ Cognizant (Backend & APIs)  
-- 🔄 Transitioning into **Applied AI & LLM Engineering**  
-- 🧪 Focused on **RAG systems, agents, and AI backends**  
-- 🚀 Building **production-style GenAI projects**
+- 🎓 Master of Applied Computing — University of Windsor  
+- 💼 Former Software Developer at Cognizant (backend APIs & production systems)  
+- 🔄 Transitioning into **Applied AI / LLM Engineering**  
+- 🧪 Currently building **RAG pipelines, agent workflows, and AI APIs**  
+- 🚀 Focused on **practical, deployable GenAI systems**
 
 ---
 
-## 🤖 AI / LLM Stack
+## 🤖 What I Can Build (AI / LLM)
 
-### 🧠 Core LLM Concepts
+### 🧠 LLM & GenAI
 - Prompt engineering & system prompts  
-- Function calling & structured outputs  
-- Embeddings & cosine similarity  
+- Tool / function calling with structured outputs  
+- Embeddings & cosine similarity search  
 - Retrieval-Augmented Generation (RAG)  
-- Multi-agent workflows  
+- Multi-agent workflows (planner, retriever, executor)
 
 ### ⚙️ Frameworks & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/LangGraph-2E7D32?style=flat"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat"/>
+</p>
 
 ### 📊 Data & Embeddings
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- NumPy & Pandas for preprocessing  
+- Chunking strategies & embedding pipelines  
 
 ---
 
-## 🧠 Current Learning Focus
+## 🧠 Current Focus
 
-- LLM internals & embeddings  
-- RAG accuracy improvements  
-- Agent orchestration (LangGraph)  
-- Production-ready AI backends  
+- LLM APIs, embeddings & retrieval strategies  
+- Improving RAG accuracy (chunking, reranking, query rewriting)  
+- Agent orchestration with LangGraph  
+- Building **production-ready AI backends** using FastAPI  
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haribhav&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haribhav&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haribhav&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haribhav&layout=compact&theme=tokyonight" height="150"/>
 
 </div>
-
----
-
-## 🤝 Let’s Collaborate
-
-- 🤖 Applied AI & LLM projects  
-- 🧠 RAG & agent experimentation  
-- ⚙️ AI backend systems  
-
-⭐ If you find something useful, feel free to star a repo
