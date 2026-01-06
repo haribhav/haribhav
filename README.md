@@ -55,29 +55,6 @@
 
 ---
 
-## 🧪 Featured AI Projects
-
-### 🔹 RAG System from Scratch
-**Embeddings • Vector Search • FastAPI**
-- Manual chunking & similarity search  
-- ChromaDB vector storage  
-- Query rewriting & reranking  
-- `/ask` inference API  
-
-### 🔹 Multi-Agent System
-**LangGraph • Tools • Memory**
-- Planner, researcher, and RAG agents  
-- Tool calling & recovery logic  
-- Multi-step reasoning workflow  
-
-### 🔹 AI Backend APIs
-**FastAPI**
-- `/ask`, `/summarize`, `/embed`, `/agent` endpoints  
-- JSON responses & structured outputs  
-- Ready for frontend or integration  
-
----
-
 ## 🧠 Current Learning Focus
 
 - LLM internals & embeddings  
