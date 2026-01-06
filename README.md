@@ -53,6 +53,11 @@
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
   <img src="https://img.shields.io/badge/LangGraph-2E7D32?style=flat"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  
 </p>
 
 ### 📊 Data & Embeddings
