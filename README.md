@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer;LLMs+%7C+RAG+%7C+Agents;Python+%7C+FastAPI+%7C+Vector+DBs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=GenAI+Engineer;LLMs+%7C+RAG+%7C+Agents;Python+%7C+FastAPI+%7C+Vector+DBs" />
 
 <br/>
 
 ### 🤖 Hi, I'm **Vignesh Hari Bhaskar**
 
-**Applied AI Engineer (Early Career)**  
+**GenAI Engineer (Early Career)**  
 *LLMs • RAG • Agents • AI Backends*
 
 📍 Canada • Open to Relocation  
